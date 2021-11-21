@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://github.com/Yangyuxin9/Yangyuxin9.github.io.git/atom.xml" rel="self"/>
+  <link href="https://github.com/Yangyuxin9/Yangyuxin9.github.io./atom.xml" rel="self"/>
   
-  <link href="https://github.com/Yangyuxin9/Yangyuxin9.github.io.git/"/>
+  <link href="https://github.com/Yangyuxin9/Yangyuxin9.github.io./"/>
   <updated>2021-11-20T10:52:14.496Z</updated>
-  <id>https://github.com/Yangyuxin9/Yangyuxin9.github.io.git/</id>
+  <id>https://github.com/Yangyuxin9/Yangyuxin9.github.io./</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/Yangyuxin9/Yangyuxin9.github.io.git/2021/11/20/hello-world/"/>
-    <id>https://github.com/Yangyuxin9/Yangyuxin9.github.io.git/2021/11/20/hello-world/</id>
+    <link href="https://github.com/Yangyuxin9/Yangyuxin9.github.io./2021/11/20/hello-world/"/>
+    <id>https://github.com/Yangyuxin9/Yangyuxin9.github.io./2021/11/20/hello-world/</id>
     <published>2021-11-20T10:52:14.496Z</published>
     <updated>2021-11-20T10:52:14.496Z</updated>
     
